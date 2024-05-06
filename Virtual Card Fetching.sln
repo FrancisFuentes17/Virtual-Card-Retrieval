@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Virtual Card Fetching", "Virtual Card Fetching\Virtual Card Fetching.csproj", "{57FF238E-70C4-4518-8C9B-3FC2EA95EB00}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Virtual Card Retrieval", "Virtual Card Retrieval\Virtual Card Retrieval.vdproj", "{6EE880A1-8C9C-4CB4-9819-58E0A211A667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FF238E-70C4-4518-8C9B-3FC2EA95EB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FF238E-70C4-4518-8C9B-3FC2EA95EB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FF238E-70C4-4518-8C9B-3FC2EA95EB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FF238E-70C4-4518-8C9B-3FC2EA95EB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE880A1-8C9C-4CB4-9819-58E0A211A667}.Debug|Any CPU.ActiveCfg = Debug
+		{6EE880A1-8C9C-4CB4-9819-58E0A211A667}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63F4DD8D-948A-4130-96CB-2B8E2CD4DFF8}
+	EndGlobalSection
+EndGlobal

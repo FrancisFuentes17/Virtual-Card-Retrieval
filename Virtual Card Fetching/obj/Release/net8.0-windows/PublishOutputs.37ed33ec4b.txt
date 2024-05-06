@@ -1,0 +1,18 @@
+F:\C# Installer\Virtual Card Retrieval\Virtual Card Fetching.exe
+F:\C# Installer\Virtual Card Retrieval\Virtual Card Fetching.dll
+F:\C# Installer\Virtual Card Retrieval\Virtual Card Fetching.deps.json
+F:\C# Installer\Virtual Card Retrieval\Virtual Card Fetching.runtimeconfig.json
+F:\C# Installer\Virtual Card Retrieval\Virtual Card Fetching.pdb
+F:\C# Installer\Virtual Card Retrieval\BouncyCastle.Cryptography.dll
+F:\C# Installer\Virtual Card Retrieval\Google.Protobuf.dll
+F:\C# Installer\Virtual Card Retrieval\K4os.Compression.LZ4.dll
+F:\C# Installer\Virtual Card Retrieval\K4os.Compression.LZ4.Streams.dll
+F:\C# Installer\Virtual Card Retrieval\K4os.Hash.xxHash.dll
+F:\C# Installer\Virtual Card Retrieval\MySql.Data.dll
+F:\C# Installer\Virtual Card Retrieval\System.IO.Pipelines.dll
+F:\C# Installer\Virtual Card Retrieval\ZstdSharp.dll
+F:\C# Installer\Virtual Card Retrieval\runtimes\win-x64\native\comerr64.dll
+F:\C# Installer\Virtual Card Retrieval\runtimes\win-x64\native\gssapi64.dll
+F:\C# Installer\Virtual Card Retrieval\runtimes\win-x64\native\k5sprt64.dll
+F:\C# Installer\Virtual Card Retrieval\runtimes\win-x64\native\krb5_64.dll
+F:\C# Installer\Virtual Card Retrieval\runtimes\win-x64\native\krbcc64.dll
